@@ -1,3 +1,22 @@
+
+# Week 7 Assignment: Database Design and Normalization
+
+## Description
+This assignment demonstrates database normalization using First Normal Form (1NF) and Second Normal Form (2NF).
+
+## Question 1: First Normal Form
+Converted the ProductDetail table into 1NF by storing each product in a separate row.
+
+## Question 2: Second Normal Form
+Separated order information into two tables:
+- Orders
+- OrderItems
+
+Used primary keys and foreign keys to establish relationships between the tables.
+
+## Files
+- week7_normalization.sql
+- README.md
 # PLP Week 7: Database Design and Normalization
 
 ## Project Overview
