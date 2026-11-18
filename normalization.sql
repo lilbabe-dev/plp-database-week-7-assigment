@@ -1,7 +1,8 @@
 
 -- PLP DATABASE SYSTEMS
 -- WEEK 7: DATABASE DESIGN AND NORMALIZATION
-
+-- Student Name:Anok
+-- Date:18/11/2026
 -- ==========================================
 -- QUESTION 1: FIRST NORMAL FORM (1NF)
 -- ==========================================
